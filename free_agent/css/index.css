@@ -1,0 +1,33 @@
+                    /*  AQUI NESSE CSS VOCÊ COLOCA OS ESTILOS DA PÀGINA PRINCIPAL    */
+                    
+                    header {
+                        background-color: black;
+                        border-bottom: 2px solid lightslategray;
+                        padding: 15px;
+                    }
+                    
+                    img {
+                        margin-right: 200px;
+                    }
+                    
+                    .nav-item {
+                        font-family: 'G Display';
+                        color: white;
+                        text-decoration: none;
+                        font-size: 22px;
+                        margin: auto;
+                        padding: 30px;
+                    }
+                    
+                    nav:hover {
+                        color: blue;
+                    }
+                    
+                    #cadastro {
+                        margin: 20px;
+                    }
+                    
+                    body {
+                        background-color: #222121;
+                        color: white;
+                    }
