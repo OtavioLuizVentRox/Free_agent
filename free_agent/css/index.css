@@ -1,33 +1,123 @@
-                    /*  AQUI NESSE CSS VOCÊ COLOCA OS ESTILOS DA PÀGINA PRINCIPAL    */
-                    
-                    header {
-                        background-color: black;
-                        border-bottom: 2px solid lightslategray;
-                        padding: 15px;
-                    }
-                    
-                    img {
-                        margin-right: 200px;
-                    }
-                    
-                    .nav-item {
-                        font-family: 'G Display';
-                        color: white;
-                        text-decoration: none;
-                        font-size: 22px;
-                        margin: auto;
-                        padding: 30px;
-                    }
-                    
-                    nav:hover {
-                        color: blue;
-                    }
-                    
-                    #cadastro {
-                        margin: 20px;
-                    }
-                    
-                    body {
-                        background-color: #222121;
-                        color: white;
-                    }
+        /*  AQUI NESSE CSS VOCÊ COLOCA OS ESTILOS DA PÀGINA PRINCIPAL    */
+        
+        header {
+            background-color: black;
+            border-bottom: 2px solid lightslategray;
+            padding: 15px;
+        }
+        
+        img {
+            margin-right: 200px;
+        }
+        
+        .nav-item {
+            font-family: 'G Display';
+            color: white;
+            text-decoration: none;
+            font-size: 22px;
+            margin: auto;
+            padding: 30px;
+        }
+        
+        nav:hover {
+            color: blue;
+        }
+        
+        #cadastro {
+            margin: 20px;
+        }
+        
+        body {
+            background-color: #222121;
+            color: white;
+        }
+        
+        #agencia {
+            position: absolute;
+            width: 380px;
+            height: 60px;
+            left: 102px;
+            top: 170px;
+            font-style: normal;
+            font-weight: 400;
+            font-size: 48px;
+            line-height: 73px;
+            margin: none;
+        }
+        
+        #inovadora {
+            position: absolute;
+            width: 380px;
+            height: 60px;
+            left: 90.22px;
+            top: 240.19px;
+            font-style: normal;
+            font-weight: 400;
+            font-size: 48px;
+            line-height: 73px;
+            /* identical to box height */
+            color: #BAAFFF;
+            margin: none;
+        }
+        
+        h6 {
+            position: absolute;
+            top: 340.19px;
+            font-family: 'Gadugi';
+            font-style: normal;
+            font-weight: bold;
+            font-size: 17px;
+            left: 105px;
+        }
+        
+        #p1 {
+            position: absolute;
+            top: 380.19px;
+            width: 400px;
+            height: 108px;
+            font-family: 'Gadugi';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 20px;
+            line-height: 27px;
+        }
+        
+        #p2 {
+            position: absolute;
+            top: 550px;
+            width: 400px;
+            height: 108px;
+            font-family: 'Gadugi';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 20px;
+            line-height: 27px;
+        }
+        
+        #jinx {
+            width: 500px;
+            height: 511px;
+            margin: none;
+        }
+        
+        #quemsomos {
+            text-align: center;
+            margin-bottom: 23px;
+        }
+        
+        main {
+            background: url(/img/backgroundmain.png);
+            background-blend-mode: darken;
+        }
+        
+        #mulhergamer {
+            height: 500px;
+            width: 500px;
+        }
+        
+        #conteudo {
+            height: 30px;
+            font-size: 18px;
+            font-weight: 400px;
+            font-weight: bold;
+        }
